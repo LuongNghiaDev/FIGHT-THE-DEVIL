@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - FxTemporaire
+  - Bullet
+  - Enemy
+  - BulletEnemy
+  - Bomb
+  - Coin
+  - Lucky
+  - WeaponRight
+  - WeaponLeft
+  - Limites
+  - LimitesZone
+  - BombPlayer
+  - BulletBomb
+  - Baoho
+  - ItemHeart
+  - Practitioners
+  - ItemEletric
+  - ItemFire
+  - ItemDoc
+  - BulletBoss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Rock
+  - Bullet
+  - BulletEnemy
+  - Enemy
+  - Dialog
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 733881201
+    locked: 0
+  - name: Foregound
+    uniqueID: 3357172071
+    locked: 0
+  - name: Player
+    uniqueID: 1075379723
+    locked: 0
+  - name: PlayerItem
+    uniqueID: 4025054327
+    locked: 0
+  - name: Front
+    uniqueID: 2469869247
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Dialog
+    uniqueID: 4225696067
+    locked: 0

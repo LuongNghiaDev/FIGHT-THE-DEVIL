@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6188ce9b029c384f8884116467c257c, type: 3}
+  m_Name: Gun6_6
+  m_EditorClassIdentifier: 
+  name: gun6_6
+  nameGun: gun6_6
+  dame: 7
+  force: 25
+  imgGun: {fileID: 21300000, guid: 3cef4e4c224cec842a2772c93bcd293b, type: 3}
+  weaponSound: {fileID: 8300000, guid: d26a96d708c5f7e429fcf64136bfee48, type: 3}
